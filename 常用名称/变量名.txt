@@ -1,0 +1,6 @@
+音频播放状态                   audioPlayStatus
+录音播放状态                    recordingPlayStatus
+录音状态                        recordingStatus
+播放中                      playing
+暂停中                      paused
+停止中                      stopped
